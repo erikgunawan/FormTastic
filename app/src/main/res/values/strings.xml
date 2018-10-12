@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FormTastic</string>
+    <string name="nama_depan">Nama Depan</string>
+    <string name="nama_depan_anda">Nama depan anda</string>
+    <string name="nama_belakang">Nama Belakang</string>
+    <string name="nama_belakang_anda">Nama belakang anda</string>
+    <string name="alamat_e_mail">Alamat E-mail</string>
+    <string name="nama_domain_com">nama@domain.com</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="buat_password">Buat Password</string>
+    <string name="password">password</string>
+    <string name="ulangi_password_yang_baru_ditulis">Ulangi Password yang Baru ditulis</string>
+    <string name="syarat_kebijakan">Saya telah membaca, memahami dan menyetujui <a href="http://www.google.com">Kebijakan Privasi</a> dan <a href="http://www.google.com">Syarat dan Ketentuan</a></string>
+    <string name="daftar">Daftar</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+
+    <string-array name="jenis_kelamin_arr">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>

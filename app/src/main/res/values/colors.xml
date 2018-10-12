@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="label_color">#718E9D</color>
+
+    <color name="btn_color">#0F5DA8</color>
+    <color name="btn_color_pressed">#003b74</color>
+    <color name="btn_color_disabled">#568cbf</color>
+
+    <color name="tv_color">#435C66</color>
+    <color name="tv_link_color">#0064B3</color>
+
+    <color name="et_hint_color">#AEBFC7</color>
+    <color name="et_color">#26363B</color>
+
+    <color name="cb_color">#E9EFF2</color>
+    <color name="cb_check_color">#435964</color>
+</resources>
